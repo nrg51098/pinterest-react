@@ -1,0 +1,20 @@
+{
+  "board1": {
+    "name": "Puppies",
+    "description": "Nothing but the greatest creature on earth.",
+    "uid": "m1EmVrKSohV16r5XWlcAf6oQat82",
+    "faClassName": "fas fa-dog"
+  },
+  "board2": {
+    "name": "Bears",
+    "description": "big and fluffy",
+    "uid": "m1EmVrKSohV16r5XWlcAf6oQat82",
+    "faClassName": "fas fa-paw"
+  },
+  "board3": {
+    "name": "Trucks",
+    "description": "A board with lots of trucks",
+    "uid": "12345",
+    "faClassName": "fas fa-truck-monster"
+  }
+}
